@@ -18,6 +18,10 @@ Powered by Dost AI.
 <script src="https://dostai.com/bditconnect/uk/chatbot.js"></script> 
 ```
 
-## Contributing
+## Demo
+
+Visit https://xho.to/jscall.html
+
+## Support
 For any info please email mail@preneurlab.com
 
